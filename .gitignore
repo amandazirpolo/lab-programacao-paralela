@@ -1,6 +1,15 @@
 # Prerequisites
 *.d
 
+# Ignorando arquivos executáveis
+*.out
+*.exe
+*.dll
+*.o        
+*.a        
+*.so       
+*.dylib  
+
 # Object files
 *.o
 *.ko
